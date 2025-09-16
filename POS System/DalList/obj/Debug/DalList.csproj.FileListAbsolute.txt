@@ -1,0 +1,91 @@
+D:\project\bin\DalList.deps.json
+D:\project\bin\DalList.dll
+D:\project\bin\DalList.pdb
+D:\project\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+D:\project\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+D:\project\DalList\obj\Debug\DalList.AssemblyInfo.cs
+D:\project\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+D:\project\DalList\obj\Debug\DalList.csproj.CopyComplete
+D:\project\DalList\obj\Debug\DalList.dll
+D:\project\DalList\obj\Debug\refint\DalList.dll
+D:\project\DalList\obj\Debug\DalList.pdb
+D:\project\DalList\obj\Debug\ref\DalList.dll
+G:\תכנות\מתקדםC#\project\bin\DalList.deps.json
+G:\תכנות\מתקדםC#\project\bin\DalList.dll
+G:\תכנות\מתקדםC#\project\bin\DalList.pdb
+G:\תכנות\מתקדםC#\project\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+G:\תכנות\מתקדםC#\project\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות\מתקדםC#\project\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+G:\תכנות\מתקדםC#\project\DalList\obj\Debug\DalList.AssemblyInfo.cs
+G:\תכנות\מתקדםC#\project\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+G:\תכנות\מתקדםC#\project\DalList\obj\Debug\DalList.csproj.CopyComplete
+G:\תכנות\מתקדםC#\project\DalList\obj\Debug\DalList.dll
+G:\תכנות\מתקדםC#\project\DalList\obj\Debug\refint\DalList.dll
+G:\תכנות\מתקדםC#\project\DalList\obj\Debug\DalList.pdb
+G:\תכנות\מתקדםC#\project\DalList\obj\Debug\ref\DalList.dll
+F:\תכנות\מתקדםC#\project\bin\DalList.deps.json
+F:\תכנות\מתקדםC#\project\bin\DalList.dll
+F:\תכנות\מתקדםC#\project\bin\DalList.pdb
+F:\תכנות\מתקדםC#\project\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+F:\תכנות\מתקדםC#\project\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות\מתקדםC#\project\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+F:\תכנות\מתקדםC#\project\DalList\obj\Debug\DalList.AssemblyInfo.cs
+F:\תכנות\מתקדםC#\project\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+F:\תכנות\מתקדםC#\project\DalList\obj\Debug\DalList.csproj.Up2Date
+F:\תכנות\מתקדםC#\project\DalList\obj\Debug\DalList.dll
+F:\תכנות\מתקדםC#\project\DalList\obj\Debug\refint\DalList.dll
+F:\תכנות\מתקדםC#\project\DalList\obj\Debug\DalList.pdb
+F:\תכנות\מתקדםC#\project\DalList\obj\Debug\ref\DalList.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalList\obj\Debug\refint\DalList.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\bin\DalList.deps.json
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\bin\DalList.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\bin\DalList.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.csproj.Up2Date
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalList\obj\Debug\ref\DalList.dll
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\bin\DalList.deps.json
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\bin\DalList.dll
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\bin\DalList.pdb
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.AssemblyInfo.cs
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.csproj.CopyComplete
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.dll
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalList\obj\Debug\refint\DalList.dll
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.pdb
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalList\obj\Debug\ref\DalList.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\DalList.deps.json
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\DalList.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\DalList.pdb
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalList\obj\Debug\refint\DalList.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.pdb
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalList\obj\Debug\ref\DalList.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.csproj.Up2Date
+G:\חני ופנינה מעודכן\project\bin\DalList.deps.json
+G:\חני ופנינה מעודכן\project\bin\DalList.dll
+G:\חני ופנינה מעודכן\project\bin\DalList.pdb
+G:\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+G:\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+G:\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+G:\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.AssemblyInfo.cs
+G:\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+G:\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.csproj.CopyComplete
+G:\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.dll
+G:\חני ופנינה מעודכן\project\DalList\obj\Debug\refint\DalList.dll
+G:\חני ופנינה מעודכן\project\DalList\obj\Debug\DalList.pdb
+G:\חני ופנינה מעודכן\project\DalList\obj\Debug\ref\DalList.dll

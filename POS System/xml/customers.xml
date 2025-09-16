@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Tz>215658974</Tz>
+    <Name>Sari Lev</Name>
+    <Adress>Exodus</Adress>
+    <Phone>0527645814</Phone>
+  </Customer>
+  <Customer>
+    <Tz>125478996</Tz>
+    <Name>Shevi Peles</Name>
+    <Adress>Herzel</Adress>
+    <Phone>0548457412</Phone>
+  </Customer>
+  <Customer>
+    <Tz>102365447</Tz>
+    <Name>Zipi Levi</Name>
+    <Adress>Yafo</Adress>
+    <Phone>0583265489</Phone>
+  </Customer>
+  <Customer>
+    <Tz>225468596</Tz>
+    <Name>Noa Gold</Name>
+    <Adress>Maharil</Adress>
+    <Phone>0556748541</Phone>
+  </Customer>
+  <Customer>
+    <Tz>123521458</Tz>
+    <Name>Michal Atia</Name>
+    <Adress>Rashi</Adress>
+    <Phone>0528425687</Phone>
+  </Customer>
+  <Customer>
+    <Tz>654258411</Tz>
+    <Name>Dani</Name>
+    <Adress>Hzait 6</Adress>
+    <Phone>0545748452</Phone>
+  </Customer>
+</ArrayOfCustomer>

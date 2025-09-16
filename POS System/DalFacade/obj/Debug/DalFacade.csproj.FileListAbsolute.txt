@@ -1,0 +1,77 @@
+D:\project\bin\DalFacade.deps.json
+D:\project\bin\DalFacade.dll
+D:\project\bin\DalFacade.pdb
+D:\project\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+D:\project\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+D:\project\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+D:\project\DalFacade\obj\Debug\DalFacade.dll
+D:\project\DalFacade\obj\Debug\refint\DalFacade.dll
+D:\project\DalFacade\obj\Debug\DalFacade.pdb
+D:\project\DalFacade\obj\Debug\ref\DalFacade.dll
+G:\תכנות\מתקדםC#\project\bin\DalFacade.deps.json
+G:\תכנות\מתקדםC#\project\bin\DalFacade.dll
+G:\תכנות\מתקדםC#\project\bin\DalFacade.pdb
+G:\תכנות\מתקדםC#\project\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות\מתקדםC#\project\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+G:\תכנות\מתקדםC#\project\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+G:\תכנות\מתקדםC#\project\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+G:\תכנות\מתקדםC#\project\DalFacade\obj\Debug\DalFacade.dll
+G:\תכנות\מתקדםC#\project\DalFacade\obj\Debug\refint\DalFacade.dll
+G:\תכנות\מתקדםC#\project\DalFacade\obj\Debug\DalFacade.pdb
+G:\תכנות\מתקדםC#\project\DalFacade\obj\Debug\ref\DalFacade.dll
+F:\תכנות\מתקדםC#\project\bin\DalFacade.deps.json
+F:\תכנות\מתקדםC#\project\bin\DalFacade.dll
+F:\תכנות\מתקדםC#\project\bin\DalFacade.pdb
+F:\תכנות\מתקדםC#\project\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות\מתקדםC#\project\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+F:\תכנות\מתקדםC#\project\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+F:\תכנות\מתקדםC#\project\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+F:\תכנות\מתקדםC#\project\DalFacade\obj\Debug\DalFacade.dll
+F:\תכנות\מתקדםC#\project\DalFacade\obj\Debug\refint\DalFacade.dll
+F:\תכנות\מתקדםC#\project\DalFacade\obj\Debug\DalFacade.pdb
+F:\תכנות\מתקדםC#\project\DalFacade\obj\Debug\ref\DalFacade.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\bin\DalFacade.deps.json
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\bin\DalFacade.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\bin\DalFacade.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalFacade\obj\Debug\refint\DalFacade.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalFacade\obj\Debug\ref\DalFacade.dll
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\bin\DalFacade.deps.json
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\bin\DalFacade.dll
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\bin\DalFacade.pdb
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.dll
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalFacade\obj\Debug\refint\DalFacade.dll
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.pdb
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalFacade\obj\Debug\ref\DalFacade.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\DalFacade.deps.json
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\DalFacade.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\DalFacade.pdb
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalFacade\obj\Debug\refint\DalFacade.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.pdb
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalFacade\obj\Debug\ref\DalFacade.dll
+G:\חני ופנינה מעודכן\project\bin\DalFacade.deps.json
+G:\חני ופנינה מעודכן\project\bin\DalFacade.dll
+G:\חני ופנינה מעודכן\project\bin\DalFacade.pdb
+G:\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+G:\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+G:\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+G:\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+G:\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.dll
+G:\חני ופנינה מעודכן\project\DalFacade\obj\Debug\refint\DalFacade.dll
+G:\חני ופנינה מעודכן\project\DalFacade\obj\Debug\DalFacade.pdb
+G:\חני ופנינה מעודכן\project\DalFacade\obj\Debug\ref\DalFacade.dll

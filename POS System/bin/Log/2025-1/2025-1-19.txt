@@ -1,0 +1,78 @@
+19/01/2025 12:41:51/tDal.CustomerImplementation.Create:/tstart 
+19/01/2025 12:41:51/tDal.CustomerImplementation.Create:/tend 
+19/01/2025 12:41:51/tDal.CustomerImplementation.Create:/tstart 
+19/01/2025 12:41:51/tDal.CustomerImplementation.Create:/tend 
+19/01/2025 12:41:51/tDal.CustomerImplementation.Create:/tstart 
+19/01/2025 12:41:51/tDal.CustomerImplementation.Create:/tend 
+19/01/2025 12:41:51/tDal.CustomerImplementation.Create:/tstart 
+19/01/2025 12:41:51/tDal.CustomerImplementation.Create:/tend 
+19/01/2025 12:41:51/tDal.CustomerImplementation.Create:/tstart 
+19/01/2025 12:41:51/tDal.CustomerImplementation.Create:/tend 
+19/01/2025 12:41:51/tDal.ProductsImplementation.Create:/tstart 
+19/01/2025 12:41:51/tDal.ProductsImplementation.Create:/tend 
+19/01/2025 12:41:51/tDal.ProductsImplementation.Create:/tstart 
+19/01/2025 12:41:51/tDal.ProductsImplementation.Create:/tend 
+19/01/2025 12:41:51/tDal.ProductsImplementation.Create:/tstart 
+19/01/2025 12:41:51/tDal.ProductsImplementation.Create:/tend 
+19/01/2025 12:41:51/tDal.ProductsImplementation.Create:/tstart 
+19/01/2025 12:41:51/tDal.ProductsImplementation.Create:/tend 
+19/01/2025 12:41:51/tDal.ProductsImplementation.Create:/tstart 
+19/01/2025 12:41:51/tDal.ProductsImplementation.Create:/tend 
+19/01/2025 12:41:51/tDal.SaleImplementation.Create:/tstart 
+19/01/2025 12:41:51/tDal.SaleImplementation.Create:/tend 
+19/01/2025 12:41:51/tDal.SaleImplementation.Create:/tstart 
+19/01/2025 12:41:51/tDal.SaleImplementation.Create:/tend 
+19/01/2025 12:41:51/tDal.SaleImplementation.Create:/tstart 
+19/01/2025 12:41:51/tDal.SaleImplementation.Create:/tend 
+19/01/2025 12:41:51/tDal.SaleImplementation.Create:/tstart 
+19/01/2025 12:41:51/tDal.SaleImplementation.Create:/tend 
+19/01/2025 12:41:51/tDal.SaleImplementation.Create:/tstart 
+19/01/2025 12:41:51/tDal.SaleImplementation.Create:/tend 
+19/01/2025 12:42:21/tDal.CustomerImplementation.Create:/tstart 
+19/01/2025 12:42:21/tDal.CustomerImplementation.Create:/tend 
+19/01/2025 12:46:06/tDal.ProductsImplementation.Create:/tstart 
+19/01/2025 12:46:06/tDal.ProductsImplementation.Create:/tend 
+19/01/2025 12:50:14/tDal.ProductsImplementation.Read:/tstart 
+19/01/2025 12:50:14/tDal.ProductsImplementation.Read:/tstart 
+19/01/2025 12:50:14/tDal.ProductsImplementation.Read:/tstart 
+19/01/2025 12:50:14/tDal.ProductsImplementation.Read:/tstart 
+19/01/2025 12:50:14/tDal.ProductsImplementation.Read:/tstart 
+19/01/2025 12:50:14/tDal.ProductsImplementation.Read:/tstart 
+19/01/2025 12:50:14/tDal.ProductsImplementation.Read:/tend 
+19/01/2025 12:50:14/tDalTest.Program.ReadItem:/tError: There is no product with this ID
+19/01/2025 12:50:24	Dal.CustomerImplementation.Create:	start 
+19/01/2025 12:50:24	Dal.CustomerImplementation.Create:	end 
+19/01/2025 12:50:24	Dal.CustomerImplementation.Create:	start 
+19/01/2025 12:50:24	Dal.CustomerImplementation.Create:	end 
+19/01/2025 12:50:24	Dal.CustomerImplementation.Create:	start 
+19/01/2025 12:50:24	Dal.CustomerImplementation.Create:	end 
+19/01/2025 12:50:24	Dal.CustomerImplementation.Create:	start 
+19/01/2025 12:50:24	Dal.CustomerImplementation.Create:	end 
+19/01/2025 12:50:24	Dal.CustomerImplementation.Create:	start 
+19/01/2025 12:50:24	Dal.CustomerImplementation.Create:	end 
+19/01/2025 12:50:24	Dal.ProductsImplementation.Create:	start 
+19/01/2025 12:50:24	Dal.ProductsImplementation.Create:	end 
+19/01/2025 12:50:24	Dal.ProductsImplementation.Create:	start 
+19/01/2025 12:50:24	Dal.ProductsImplementation.Create:	end 
+19/01/2025 12:50:24	Dal.ProductsImplementation.Create:	start 
+19/01/2025 12:50:24	Dal.ProductsImplementation.Create:	end 
+19/01/2025 12:50:25	Dal.ProductsImplementation.Create:	start 
+19/01/2025 12:50:25	Dal.ProductsImplementation.Create:	end 
+19/01/2025 12:50:25	Dal.ProductsImplementation.Create:	start 
+19/01/2025 12:50:25	Dal.ProductsImplementation.Create:	end 
+19/01/2025 12:50:25	Dal.SaleImplementation.Create:	start 
+19/01/2025 12:50:25	Dal.SaleImplementation.Create:	end 
+19/01/2025 12:50:25	Dal.SaleImplementation.Create:	start 
+19/01/2025 12:50:25	Dal.SaleImplementation.Create:	end 
+19/01/2025 12:50:25	Dal.SaleImplementation.Create:	start 
+19/01/2025 12:50:25	Dal.SaleImplementation.Create:	end 
+19/01/2025 12:50:25	Dal.SaleImplementation.Create:	start 
+19/01/2025 12:50:25	Dal.SaleImplementation.Create:	end 
+19/01/2025 12:50:25	Dal.SaleImplementation.Create:	start 
+19/01/2025 12:50:25	Dal.SaleImplementation.Create:	end 
+19/01/2025 12:51:18	Dal.CustomerImplementation.Create:	start 
+19/01/2025 12:51:18	Dal.CustomerImplementation.Create:	end 
+19/01/2025 12:51:29	Dal.CustomerImplementation.ReadAll:	start 
+19/01/2025 12:51:44	Dal.CustomerImplementation.Read:	start 
+19/01/2025 12:51:44	DalTest.Program.ReadItem:	Error: There is no customer with this Tz
+19/01/2025 12:51:50	Dal.CustomerImplementation.ReadAll:	start 

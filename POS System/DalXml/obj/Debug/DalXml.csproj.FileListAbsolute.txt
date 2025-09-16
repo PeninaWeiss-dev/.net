@@ -1,0 +1,26 @@
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\DalXML.deps.json
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\DalXML.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\DalXML.pdb
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalXml\obj\Debug\DalXML.csproj.Up2Date
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalXml\obj\Debug\DalXML.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalXml\obj\Debug\refint\DalXML.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalXml\obj\Debug\DalXML.pdb
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalXml\obj\Debug\ref\DalXML.dll
+G:\חני ופנינה מעודכן\project\bin\DalXML.deps.json
+G:\חני ופנינה מעודכן\project\bin\DalXML.dll
+G:\חני ופנינה מעודכן\project\bin\DalXML.pdb
+G:\חני ופנינה מעודכן\project\DalXml\obj\Debug\DalXML.csproj.AssemblyReference.cache
+G:\חני ופנינה מעודכן\project\DalXml\obj\Debug\DalXML.GeneratedMSBuildEditorConfig.editorconfig
+G:\חני ופנינה מעודכן\project\DalXml\obj\Debug\DalXML.AssemblyInfoInputs.cache
+G:\חני ופנינה מעודכן\project\DalXml\obj\Debug\DalXML.AssemblyInfo.cs
+G:\חני ופנינה מעודכן\project\DalXml\obj\Debug\DalXML.csproj.CoreCompileInputs.cache
+G:\חני ופנינה מעודכן\project\DalXml\obj\Debug\DalXML.csproj.CopyComplete
+G:\חני ופנינה מעודכן\project\DalXml\obj\Debug\DalXML.dll
+G:\חני ופנינה מעודכן\project\DalXml\obj\Debug\refint\DalXML.dll
+G:\חני ופנינה מעודכן\project\DalXml\obj\Debug\DalXML.pdb
+G:\חני ופנינה מעודכן\project\DalXml\obj\Debug\ref\DalXML.dll

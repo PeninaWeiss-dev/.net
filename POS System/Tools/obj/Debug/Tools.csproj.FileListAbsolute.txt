@@ -1,0 +1,55 @@
+G:\תכנות\מתקדםC#\project\bin\Tools.deps.json
+G:\תכנות\מתקדםC#\project\bin\Tools.dll
+G:\תכנות\מתקדםC#\project\bin\Tools.pdb
+G:\תכנות\מתקדםC#\project\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות\מתקדםC#\project\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+G:\תכנות\מתקדםC#\project\Tools\obj\Debug\Tools.AssemblyInfo.cs
+G:\תכנות\מתקדםC#\project\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+G:\תכנות\מתקדםC#\project\Tools\obj\Debug\Tools.dll
+G:\תכנות\מתקדםC#\project\Tools\obj\Debug\refint\Tools.dll
+G:\תכנות\מתקדםC#\project\Tools\obj\Debug\Tools.pdb
+G:\תכנות\מתקדםC#\project\Tools\obj\Debug\ref\Tools.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\bin\Tools.deps.json
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\bin\Tools.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\bin\Tools.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\Tools\obj\Debug\refint\Tools.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\Tools\obj\Debug\ref\Tools.dll
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\bin\Tools.deps.json
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\bin\Tools.dll
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\bin\Tools.pdb
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.AssemblyInfo.cs
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.dll
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\Tools\obj\Debug\refint\Tools.dll
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.pdb
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\Tools\obj\Debug\ref\Tools.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\Tools.deps.json
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\Tools.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\Tools.pdb
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\Tools\obj\Debug\refint\Tools.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.pdb
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\Tools\obj\Debug\ref\Tools.dll
+G:\חני ופנינה מעודכן\project\bin\Tools.deps.json
+G:\חני ופנינה מעודכן\project\bin\Tools.dll
+G:\חני ופנינה מעודכן\project\bin\Tools.pdb
+G:\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+G:\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+G:\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.AssemblyInfo.cs
+G:\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+G:\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.dll
+G:\חני ופנינה מעודכן\project\Tools\obj\Debug\refint\Tools.dll
+G:\חני ופנינה מעודכן\project\Tools\obj\Debug\Tools.pdb
+G:\חני ופנינה מעודכן\project\Tools\obj\Debug\ref\Tools.dll

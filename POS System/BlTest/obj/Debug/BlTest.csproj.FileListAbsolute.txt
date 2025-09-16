@@ -1,0 +1,21 @@
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+G:\חני ופנינה מעודכן\project\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+G:\חני ופנינה מעודכן\project\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\חני ופנינה מעודכן\project\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+G:\חני ופנינה מעודכן\project\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+G:\חני ופנינה מעודכן\project\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+G:\חני ופנינה מעודכן\project\bin\BlTest.exe
+G:\חני ופנינה מעודכן\project\bin\BlTest.deps.json
+G:\חני ופנינה מעודכן\project\bin\BlTest.runtimeconfig.json
+G:\חני ופנינה מעודכן\project\bin\BlTest.dll
+G:\חני ופנינה מעודכן\project\bin\BlTest.pdb
+G:\חני ופנינה מעודכן\project\BlTest\obj\Debug\BlTest.csproj.CopyComplete
+G:\חני ופנינה מעודכן\project\BlTest\obj\Debug\BlTest.dll
+G:\חני ופנינה מעודכן\project\BlTest\obj\Debug\refint\BlTest.dll
+G:\חני ופנינה מעודכן\project\BlTest\obj\Debug\BlTest.pdb
+G:\חני ופנינה מעודכן\project\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+G:\חני ופנינה מעודכן\project\BlTest\obj\Debug\ref\BlTest.dll

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "orTLteSw57Y=",
+  "success": false,
+  "projectFilePath": "T:\\יד\\שבבים\\C# מתקדם\\חני ופנינה\\חני ופנינה מעודכן\\project\\BlTest\\BlTest.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project UI is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project UI supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "UI",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\BL\obj\Debug\BL.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\BL\obj\Debug\BL.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+G:\חני ופנינה מעודכן\project\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+G:\חני ופנינה מעודכן\project\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+G:\חני ופנינה מעודכן\project\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+G:\חני ופנינה מעודכן\project\BL\obj\Debug\BL.AssemblyInfo.cs
+G:\חני ופנינה מעודכן\project\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+G:\חני ופנינה מעודכן\project\bin\BL.deps.json
+G:\חני ופנינה מעודכן\project\bin\BL.dll
+G:\חני ופנינה מעודכן\project\bin\BL.pdb
+G:\חני ופנינה מעודכן\project\BL\obj\Debug\BL.csproj.CopyComplete
+G:\חני ופנינה מעודכן\project\BL\obj\Debug\BL.dll
+G:\חני ופנינה מעודכן\project\BL\obj\Debug\refint\BL.dll
+G:\חני ופנינה מעודכן\project\BL\obj\Debug\BL.pdb
+G:\חני ופנינה מעודכן\project\BL\obj\Debug\ref\BL.dll

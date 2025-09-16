@@ -1,0 +1,112 @@
+D:\project\bin\DalTest.exe
+D:\project\bin\DalTest.deps.json
+D:\project\bin\DalTest.runtimeconfig.json
+D:\project\bin\DalTest.dll
+D:\project\bin\DalTest.pdb
+D:\project\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+D:\project\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+D:\project\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+D:\project\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+D:\project\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+D:\project\DalTest\obj\Debug\DalTest.dll
+D:\project\DalTest\obj\Debug\refint\DalTest.dll
+D:\project\DalTest\obj\Debug\DalTest.pdb
+D:\project\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+D:\project\DalTest\obj\Debug\ref\DalTest.dll
+G:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+G:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+G:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+G:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+G:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.dll
+G:\תכנות\מתקדםC#\project\DalTest\obj\Debug\refint\DalTest.dll
+G:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.pdb
+G:\תכנות\מתקדםC#\project\bin\DalTest.exe
+G:\תכנות\מתקדםC#\project\bin\DalTest.deps.json
+G:\תכנות\מתקדםC#\project\bin\DalTest.runtimeconfig.json
+G:\תכנות\מתקדםC#\project\bin\DalTest.dll
+G:\תכנות\מתקדםC#\project\bin\DalTest.pdb
+G:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+G:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+G:\תכנות\מתקדםC#\project\DalTest\obj\Debug\ref\DalTest.dll
+F:\תכנות\מתקדםC#\project\bin\DalTest.exe
+F:\תכנות\מתקדםC#\project\bin\DalTest.deps.json
+F:\תכנות\מתקדםC#\project\bin\DalTest.runtimeconfig.json
+F:\תכנות\מתקדםC#\project\bin\DalTest.dll
+F:\תכנות\מתקדםC#\project\bin\DalTest.pdb
+F:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+F:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+F:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+F:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+F:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.csproj.Up2Date
+F:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.dll
+F:\תכנות\מתקדםC#\project\DalTest\obj\Debug\refint\DalTest.dll
+F:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.pdb
+F:\תכנות\מתקדםC#\project\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+F:\תכנות\מתקדםC#\project\DalTest\obj\Debug\ref\DalTest.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalTest\obj\Debug\refint\DalTest.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\bin\DalTest.exe
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\bin\DalTest.deps.json
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\bin\DalTest.runtimeconfig.json
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\bin\DalTest.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\bin\DalTest.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.csproj.Up2Date
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\חני ופנינה מעודכן\project\DalTest\obj\Debug\ref\DalTest.dll
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\bin\DalTest.exe
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\bin\DalTest.deps.json
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\bin\DalTest.runtimeconfig.json
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\bin\DalTest.dll
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\bin\DalTest.pdb
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.dll
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalTest\obj\Debug\refint\DalTest.dll
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.pdb
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+G:\תכנות\מתקדםC#\חני ופנינה מעודכן\project\DalTest\obj\Debug\ref\DalTest.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\DalTest.exe
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\DalTest.deps.json
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\DalTest.runtimeconfig.json
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\DalTest.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\bin\DalTest.pdb
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalTest\obj\Debug\refint\DalTest.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.pdb
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalTest\obj\Debug\ref\DalTest.dll
+T:\יד\שבבים\C# מתקדם\חני ופנינה\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.csproj.Up2Date
+G:\חני ופנינה מעודכן\project\bin\DalTest.exe
+G:\חני ופנינה מעודכן\project\bin\DalTest.deps.json
+G:\חני ופנינה מעודכן\project\bin\DalTest.runtimeconfig.json
+G:\חני ופנינה מעודכן\project\bin\DalTest.dll
+G:\חני ופנינה מעודכן\project\bin\DalTest.pdb
+G:\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+G:\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+G:\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+G:\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+G:\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+G:\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.dll
+G:\חני ופנינה מעודכן\project\DalTest\obj\Debug\refint\DalTest.dll
+G:\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.pdb
+G:\חני ופנינה מעודכן\project\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+G:\חני ופנינה מעודכן\project\DalTest\obj\Debug\ref\DalTest.dll

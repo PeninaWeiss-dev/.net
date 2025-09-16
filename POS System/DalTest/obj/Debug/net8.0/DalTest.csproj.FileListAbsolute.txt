@@ -1,0 +1,14 @@
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\DotNet2025_8779_0230\DalTest\bin\Debug\net8.0\DalTest.exe
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\DotNet2025_8779_0230\DalTest\bin\Debug\net8.0\DalTest.deps.json
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\DotNet2025_8779_0230\DalTest\bin\Debug\net8.0\DalTest.runtimeconfig.json
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\DotNet2025_8779_0230\DalTest\bin\Debug\net8.0\DalTest.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\DotNet2025_8779_0230\DalTest\bin\Debug\net8.0\DalTest.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\DotNet2025_8779_0230\DalTest\obj\Debug\net8.0\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\DotNet2025_8779_0230\DalTest\obj\Debug\net8.0\DalTest.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\DotNet2025_8779_0230\DalTest\obj\Debug\net8.0\DalTest.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\DotNet2025_8779_0230\DalTest\obj\Debug\net8.0\DalTest.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\DotNet2025_8779_0230\DalTest\obj\Debug\net8.0\DalTest.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\DotNet2025_8779_0230\DalTest\obj\Debug\net8.0\refint\DalTest.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\DotNet2025_8779_0230\DalTest\obj\Debug\net8.0\DalTest.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\DotNet2025_8779_0230\DalTest\obj\Debug\net8.0\DalTest.genruntimeconfig.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\DotNet2025_8779_0230\DalTest\obj\Debug\net8.0\ref\DalTest.dll

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <ProductId>0</ProductId>
+    <ProductName>21 בבית אחד</ProductName>
+    <Category>childrenBooks</Category>
+    <Price>60</Price>
+    <Quanity>12</Quanity>
+  </Product>
+  <Product>
+    <ProductId>1</ProductId>
+    <ProductName>מהמטבח היהודי</ProductName>
+    <Category>recipeBooks</Category>
+    <Price>100</Price>
+    <Quanity>5</Quanity>
+  </Product>
+  <Product>
+    <ProductId>2</ProductId>
+    <ProductName>הדופליקטים</ProductName>
+    <Category>adultBooks</Category>
+    <Price>80</Price>
+    <Quanity>27</Quanity>
+  </Product>
+  <Product>
+    <ProductId>3</ProductId>
+    <ProductName>אור מתוך העמק</ProductName>
+    <Category>biographyBooks</Category>
+    <Price>90</Price>
+    <Quanity>8</Quanity>
+  </Product>
+  <Product>
+    <ProductId>4</ProductId>
+    <ProductName>קריסטל מול האור</ProductName>
+    <Category>theoreticalBooks</Category>
+    <Price>75</Price>
+    <Quanity>15</Quanity>
+  </Product>
+  <Product>
+    <ProductId>3</ProductId>
+    <ProductName>לוחמי הצללים</ProductName>
+    <Category>adultBooks</Category>
+    <Price>75</Price>
+    <Quanity>22</Quanity>
+  </Product>
+</ArrayOfProduct>
